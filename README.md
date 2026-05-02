@@ -87,4 +87,4 @@ This project is configured for seamless deployment on **Vercel** or any static h
 *   **Routing:** Uses `HashRouter` to ensure perfect compatibility with direct URL access on static hosts.
 
 ---
-© 2024 FoodieExpress. All Rights Reserved.
+© 2026 FoodieExpress. All Rights Reserved.
